@@ -1,5 +1,5 @@
 I've recreated the nostalgic Robots game using Python 3 and curses.
 
-Copy and paste the source, grant execution permissions with chmod +x idiots.py, and run it with ./idiots.py.
+Copy and paste the source, grant execution permissions with chmod +x imbeciles.py, and run it with ./imbeciles.py.
 
-Although this is the Robots game, I've renamed it to "idiots".
+Although this is the Robots game, I've renamed it to "imbeciles".
